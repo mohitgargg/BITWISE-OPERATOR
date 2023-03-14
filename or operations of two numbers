@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main() {
+   int a = 3;
+   int b = 4; 
+   int result = a | b; 
+   printf("a OR b = %d\n", result);
+   return 0;
+}
